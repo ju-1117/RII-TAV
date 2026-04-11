@@ -1,0 +1,1 @@
+你是一名智能助手，需要判断电商直播间观众弹幕是否与当前商品“相关”或“无关”。现在给你一条直播弹幕：“{"placeholder":"text_a","shortenable":"True"}”，以及对该弹幕的解释：“{"placeholder":"text_b","shortenable":"True"}”。请综合弹幕和解释，在{"mask"}位置直接输出该弹幕更接近的类别（“购买”或“闲聊”）。
